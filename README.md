@@ -167,22 +167,5 @@ Makes actual HTTP requests to confirm via body fingerprinting:
 CVSS: Subdomain takeover is typically 8.1-9.0 (High/Critical)
 ```
 
----
-
-## GitHub Info
-
-**Description:**
-```
-Subdomain takeover scanner — CNAME/NS dangling detection, 50+ service fingerprints, CT log mining, HTTP verification, wildcard filtering
-```
-
-**Topics:**
-```
-subdomain-takeover, dangling-cname, dns-security, bug-bounty,
-reconnaissance, subdomain-enumeration, python, offensive-security, appsec
-```
-
----
-
 ## License
 MIT — For authorized testing only.
