@@ -2,7 +2,7 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
 ║       SUBDOMAIN TAKEOVER SCANNER  —  by 0xZ33                ║
-║     github.com/Zeeshanafridai/subdomain-takeover             ║
+║     github.com/Zeeshanafridai/subdomain-takeover-scanner             ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
