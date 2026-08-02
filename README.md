@@ -25,8 +25,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourhandle/subdomain-takeover
-cd subdomain-takeover
+git clone https://github.com/zeeshanafridai/subdomain-takeover-scanner
+cd subdomain-takeover-scanner
 python3 subdomain_takeover.py --help
 ```
 
